@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GeoQuiz</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="replay_button">Replay</string>
+    <string name="exit_button">hssss</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="action_settings">Settings</string>
+    <string name="next_button">Next</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="end_text">Would you like to play again?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="judgment_toast">Cheating is wrong</string>
+
+    <string name="q1">Asia is larger than Africa</string>
+    <string name="q2">The Atlantic ocean is the largest ocean</string>
+    <string name="q3">The world is flat</string>
+
+</resources>
